@@ -32,8 +32,8 @@ export default function Page() {
               </h1>
               <h2 className="text-lg  mt-4 text-gray-700 mb-4">
                 <span className="font-medium text-gray-900">
-                  Until&rsquo;s public bounty platform is still
-                  underdevelopment.
+                  Until&rsquo;s public bounty platform is still under
+                  development.
                 </span>{" "}
                 Every bounty on Until is crowd-funded by the community, and
                 bounties can be created anywhere and by anyone. Sign up for
